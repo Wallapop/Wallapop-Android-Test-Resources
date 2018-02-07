@@ -1,1190 +1,969 @@
 [
   {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4fb8336dfa3d1fab8",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
-      "price": "797€",
-      "name": "eu",
-      "description": "Enim ut in est occaecat elit non. Velit veniam mollit nostrud officia. Sint consectetur ullamco velit aute tempor duis deserunt.",
-      "distanceInMeters": 707
-    }
-  },
-  {
     "kind": "consumer_goods",
     "item": {
-      "id": "5a79bcf4e15173f2219fc188",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "745€",
-      "name": "sint",
-      "description": "Amet dolor nulla nisi voluptate incididunt nostrud ut tempor nulla. Excepteur commodo culpa ullamco sunt. Commodo laboris consequat ullamco proident commodo veniam id. Duis aliqua culpa do consectetur magna.",
-      "distanceInMeters": 479
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf42e5273c837b1763a",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "199€",
-      "name": "fugiat",
-      "description": "In fugiat sunt excepteur incididunt. Elit et sunt proident cillum culpa ut do. Esse quis sint et eiusmod magna veniam ut in aute enim ut et officia. Nisi fugiat commodo cillum ad irure Lorem magna. Occaecat eiusmod mollit quis ad sunt do ipsum irure anim nisi. Eu irure ad adipisicing laborum amet sint.",
-      "distanceInMeters": 212
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf4aab0b8dbe69cc79a",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image3.jpg",
-      "price": "574€",
-      "name": "deserunt",
-      "description": "Ut culpa irure veniam labore eu aliquip commodo ipsum dolor. Consectetur quis Lorem enim tempor. Enim dolore labore anim anim reprehenderit do do. Eu sunt sunt et consectetur enim ex adipisicing do. Qui deserunt magna non esse minim sunt laboris fugiat deserunt nisi.",
-      "distanceInMeters": 471
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4fb8336dfa3d1fab8",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
-      "price": "797€",
-      "name": "eu",
-      "description": "Enim ut in est occaecat elit non. Velit veniam mollit nostrud officia. Sint consectetur ullamco velit aute tempor duis deserunt.",
-      "distanceInMeters": 707
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf434660a47b88074c0",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "603€",
-      "name": "ex",
-      "description": "In Lorem laboris cillum do consectetur anim aliquip veniam ut consequat reprehenderit. Ex aliqua officia enim nulla irure enim ut consequat deserunt esse irure cillum. Velit voluptate mollit culpa pariatur sint pariatur. Fugiat minim ut ad eiusmod. Excepteur minim culpa adipisicing qui culpa magna quis laboris eu nulla qui non velit. Irure velit ex laborum et. Commodo consequat occaecat nisi occaecat id excepteur commodo excepteur cillum dolor nulla non.",
-      "distanceInMeters": 771
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4fe71a55f44b5af51",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "517€",
-      "name": "sint",
-      "description": "Est esse et est est dolor est irure ipsum proident est mollit. Officia nulla sint do consequat laborum ipsum aute. Occaecat aliqua exercitation qui ullamco velit voluptate anim proident mollit id velit. Voluptate eu non consequat amet laborum ad pariatur anim laboris quis aute ex eu.",
-      "distanceInMeters": 844
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf47d2d1b00c7728e23",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
-      "price": "699€",
-      "name": "laboris",
-      "description": "Eu quis excepteur do voluptate dolor sint nisi in occaecat nostrud Lorem consectetur nisi laborum. Aute dolore et exercitation reprehenderit eu cillum exercitation ea dolor consectetur. Voluptate culpa sit aute non ex.",
-      "distanceInMeters": 428
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4fb8336dfa3d1fab8",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
-      "price": "797€",
-      "name": "eu",
-      "description": "Enim ut in est occaecat elit non. Velit veniam mollit nostrud officia. Sint consectetur ullamco velit aute tempor duis deserunt.",
-      "distanceInMeters": 707
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf4e15173f2219fc188",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "745€",
-      "name": "sint",
-      "description": "Amet dolor nulla nisi voluptate incididunt nostrud ut tempor nulla. Excepteur commodo culpa ullamco sunt. Commodo laboris consequat ullamco proident commodo veniam id. Duis aliqua culpa do consectetur magna.",
-      "distanceInMeters": 479
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf44e9230b2b3f49de0",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
-      "price": "896€",
-      "name": "ullamco",
-      "description": "Dolor reprehenderit irure dolor elit. Minim minim irure ut nostrud minim laborum. Eu voluptate sint non dolor.",
-      "distanceInMeters": 270
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4572305da9b6ce391",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
-      "price": "558€",
-      "name": "nostrud",
-      "description": "Do consectetur nisi excepteur et nulla magna. Amet ipsum fugiat sunt esse in voluptate Lorem laborum sint magna tempor. Eiusmod culpa pariatur magna commodo voluptate ex excepteur. Quis adipisicing eiusmod consectetur sunt proident nisi. Ipsum occaecat ex velit labore magna aliquip tempor. Ex ad adipisicing tempor in ipsum ipsum fugiat laboris. Excepteur minim laboris ullamco esse anim est nostrud consectetur culpa tempor.",
-      "distanceInMeters": 678
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf41221daff82bde587",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "62€",
-      "name": "deserunt",
-      "description": "Pariatur cillum excepteur aute amet nisi enim ut aliqua pariatur proident ea culpa. Ad qui ex dolore incididunt exercitation Lorem adipisicing anim ipsum esse commodo. In est ad do mollit elit tempor Lorem velit voluptate fugiat ut. Fugiat incididunt mollit do non commodo enim nulla minim.",
-      "distanceInMeters": 229
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf43aa0123d77b6402c",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
-      "price": "135€",
-      "name": "cupidatat",
-      "description": "Ea reprehenderit eu nulla id. Magna laboris quis excepteur qui consectetur sit laboris do deserunt cupidatat excepteur do. Exercitation aliqua enim Lorem ullamco sit esse minim in culpa incididunt. Dolore dolore eu aliqua consectetur in deserunt elit veniam proident. Consectetur incididunt excepteur commodo aute fugiat minim nostrud ex tempor duis.",
-      "distanceInMeters": 569
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf44c59735eaa830c50",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
-      "price": "115€",
-      "name": "eu",
-      "description": "Nulla ex magna qui enim do adipisicing. Esse incididunt incididunt consequat sunt ad sit nisi excepteur ullamco. Adipisicing non ea occaecat magna. Culpa veniam exercitation commodo sit eiusmod laborum deserunt deserunt incididunt aliquip ex. Duis ut nostrud qui anim. Deserunt quis aliquip do commodo.",
-      "distanceInMeters": 559
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf4e15173f2219fc188",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "745€",
-      "name": "sint",
-      "description": "Amet dolor nulla nisi voluptate incididunt nostrud ut tempor nulla. Excepteur commodo culpa ullamco sunt. Commodo laboris consequat ullamco proident commodo veniam id. Duis aliqua culpa do consectetur magna.",
-      "distanceInMeters": 479
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4e1368e6b534bf39a",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "819€",
-      "name": "voluptate",
-      "description": "Dolor velit officia aliquip fugiat ea pariatur ut commodo laborum. Culpa esse veniam ea sunt fugiat qui laborum veniam proident nulla proident voluptate proident dolor. Dolor minim reprehenderit veniam qui do sint mollit veniam ipsum magna sunt laborum dolore. Sunt deserunt aute dolore voluptate Lorem est consequat Lorem anim aliquip pariatur cillum ea enim. Ut dolore proident dolor eu. Commodo duis laboris ut excepteur enim id laborum amet amet dolor.",
-      "distanceInMeters": 682
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf49a0c25f7c11bb6fc",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
-      "price": "12€",
-      "name": "ut",
-      "description": "Eiusmod enim ullamco culpa ut laborum pariatur nisi velit amet id. Ad dolore nulla labore consequat pariatur tempor eu reprehenderit proident aliqua ad ex quis. Sit in ullamco do sit sit elit ipsum consequat enim occaecat in sunt. Fugiat aliqua sunt enim occaecat do commodo aute in proident culpa cillum.",
-      "distanceInMeters": 921
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf416bb52d22c727013",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image10.jpg",
-      "price": "491€",
-      "name": "elit",
-      "description": "Quis labore et consectetur in cillum magna est ad cupidatat ex nostrud. Laboris dolor et quis est deserunt in sit amet ipsum. Laboris ad magna nisi cupidatat ea culpa ullamco aliqua. Esse eu cillum excepteur Lorem ea deserunt.",
-      "distanceInMeters": 482
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf4b50deb6cc49fd52a",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
-      "price": "841€",
-      "name": "ullamco",
-      "description": "Duis incididunt ullamco dolore qui do excepteur ullamco non consectetur. Nisi elit amet magna ea occaecat ex sunt adipisicing anim veniam duis consectetur id. Amet et nulla nisi ullamco officia nostrud commodo. Laboris esse officia minim officia aliqua mollit tempor aliquip elit in Lorem.",
-      "distanceInMeters": 649
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf47db063a1a64ca1b5",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image10.jpg",
-      "price": "528€",
-      "name": "in",
-      "description": "Deserunt deserunt do reprehenderit mollit fugiat incididunt et. Minim anim ullamco ipsum esse duis ut eiusmod et duis labore sunt tempor id. Reprehenderit amet dolore eu mollit deserunt ipsum dolore nulla laborum consectetur proident elit voluptate.",
-      "distanceInMeters": 564
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf445cc9a27da42a0a5",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
-      "price": "415€",
-      "name": "commodo",
-      "description": "Ullamco excepteur nulla ut officia enim esse ut pariatur minim duis adipisicing veniam. Proident aliqua culpa eiusmod elit magna esse reprehenderit anim esse enim esse et nisi. Cupidatat eiusmod ullamco laborum laborum adipisicing velit sunt esse consequat deserunt esse aliqua consectetur qui. Incididunt pariatur aliqua dolor nisi. Eiusmod eu non in voluptate magna do nisi. Officia ad aute laborum commodo nulla consequat ut officia. Occaecat ipsum occaecat adipisicing nulla et ea.",
-      "distanceInMeters": 930
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4cfdeb6b035c0235b",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
-      "price": "217€",
-      "name": "dolor",
-      "description": "Aliquip duis voluptate consectetur consequat. Enim id duis exercitation nostrud nisi sit elit quis est. In id est ullamco dolor. Officia ea consectetur in consequat cupidatat. Fugiat qui ut in consequat tempor id. Eu veniam id labore exercitation. Occaecat dolor anim Lorem enim officia.",
-      "distanceInMeters": 773
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf4684ec9a309c16ef8",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
-      "price": "683€",
-      "name": "dolor",
-      "description": "Irure id in commodo culpa ex nulla duis ut reprehenderit qui deserunt sint eu. Mollit qui magna consequat Lorem proident laboris occaecat consectetur nulla consequat labore duis aute. Do elit reprehenderit velit ad est proident excepteur Lorem.",
-      "distanceInMeters": 666
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf416143d665c7a16a5",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
-      "price": "977€",
-      "name": "ullamco",
-      "description": "Pariatur fugiat ut Lorem consequat occaecat ullamco ipsum. Minim aute est est eiusmod et mollit proident ad qui nostrud sunt anim. Irure enim labore duis eu id velit anim. Fugiat laborum eu dolore do nisi adipisicing proident velit elit. Voluptate laboris aliquip aute ad laboris minim aute laborum. Aliquip amet consectetur cupidatat et esse consectetur nisi incididunt non deserunt in dolore exercitation.",
-      "distanceInMeters": 682
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf4ff6e3385de285c8a",
+      "id": "5a7ab3e09798181675dc1751",
       "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image9.jpg",
-      "price": "896€",
-      "name": "in",
-      "description": "Non exercitation officia et dolore magna aliqua eu aute Lorem. Non ipsum ut mollit eu ipsum quis sunt. Sunt proident tempor ex est eiusmod tempor irure cupidatat mollit deserunt pariatur ut incididunt nulla. Est velit officia excepteur id magna adipisicing sunt ea elit minim. Culpa ex in laborum incididunt adipisicing ullamco fugiat. Non reprehenderit ullamco ea ea aute nostrud. Laborum sint minim non exercitation labore tempor anim esse irure sint anim.",
-      "distanceInMeters": 741
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf4ee2ffbfa85f69e82",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image10.jpg",
-      "price": "192€",
-      "name": "dolor",
-      "description": "Est enim ex aute cupidatat commodo commodo mollit. Ipsum laboris occaecat elit reprehenderit exercitation reprehenderit nostrud culpa enim laboris nulla. Veniam exercitation cillum cupidatat exercitation. Exercitation in adipisicing dolore elit non incididunt aliquip eu pariatur sunt consequat. Exercitation consequat fugiat mollit esse velit elit elit esse. Eu sunt duis mollit ullamco nisi voluptate velit adipisicing.",
-      "distanceInMeters": 501
+      "price": "447€",
+      "mame": "enim",
+      "color": "orange",
+      "category": "children",
+      "description": "Officia excepteur exercitation laborum cillum occaecat Lorem voluptate ad ullamco adipisicing adipisicing amet non. Dolor exercitation laborum sunt in ex elit officia non labore veniam culpa dolore. Ex ex tempor anim non.",
+      "distanceInMeters": 414
     }
   },
   {
     "kind": "car",
     "item": {
-      "id": "5a79bcf4fe71a55f44b5af51",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "517€",
-      "name": "sint",
-      "description": "Est esse et est est dolor est irure ipsum proident est mollit. Officia nulla sint do consequat laborum ipsum aute. Occaecat aliqua exercitation qui ullamco velit voluptate anim proident mollit id velit. Voluptate eu non consequat amet laborum ad pariatur anim laboris quis aute ex eu.",
-      "distanceInMeters": 844
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4f3482fb90fa16c70",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
-      "price": "527€",
-      "name": "consectetur",
-      "description": "Ut cillum dolore incididunt minim officia exercitation sint tempor fugiat eu excepteur esse laborum et. Tempor irure duis commodo fugiat sint non. Enim pariatur aliquip minim aliquip id ad elit consequat eu ullamco eu proident. Eiusmod elit adipisicing laboris aute minim incididunt id proident esse ea qui quis ad dolore.",
-      "distanceInMeters": 503
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf4d58ec7fde3a3ca66",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
-      "price": "324€",
-      "name": "ex",
-      "description": "Lorem commodo consequat anim enim. Nulla exercitation officia velit cupidatat Lorem incididunt nisi Lorem dolore exercitation consectetur. Proident sint Lorem anim officia ullamco quis consequat commodo non nostrud.",
-      "distanceInMeters": 851
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf43417f3020bfaa5ab",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
-      "price": "874€",
-      "name": "id",
-      "description": "Quis voluptate occaecat ipsum enim excepteur aliqua. Non Lorem tempor et ut non. Occaecat tempor sit est mollit do ea id culpa sint.",
-      "distanceInMeters": 765
+      "id": "5a7ab5108d12300142fae4a7",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
+      "price": "354076€",
+      "mame": "duis",
+      "motor": "gasoline",
+      "gearbox": "manual",
+      "brand": "irure",
+      "km": 1341,
+      "description": "Ad eiusmod consectetur nisi enim ex laborum duis adipisicing consectetur pariatur culpa minim. Aliqua quis proident tempor exercitation commodo nisi excepteur quis laborum eu nulla. Irure proident eiusmod nulla ea ut mollit ullamco ea reprehenderit nisi quis id ad et.",
+      "distanceInMeters": 841
     }
   },
   {
     "kind": "consumer_goods",
     "item": {
-      "id": "5a79bcf48e824e76465151db",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
-      "price": "707€",
-      "name": "nulla",
-      "description": "Ullamco sunt amet reprehenderit nulla nulla pariatur ad est. Sunt eu dolor pariatur officia. Sint qui ipsum est commodo laboris deserunt labore consequat velit voluptate sunt. Amet est sit do nisi id aliqua Lorem deserunt cupidatat. Dolor ipsum duis incididunt ad consequat laborum Lorem fugiat incididunt deserunt cillum laboris.",
-      "distanceInMeters": 493
+      "id": "5a7ab3e02f5029b4c86dd594",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
+      "price": "663€",
+      "mame": "et",
+      "color": "green",
+      "category": "children",
+      "description": "Sunt adipisicing nulla consectetur non qui esse ullamco esse voluptate. Proident nostrud culpa commodo ipsum deserunt ipsum ad laborum cupidatat dolore. Sint pariatur pariatur eu dolor elit anim occaecat. Cupidatat non ad velit laboris commodo mollit fugiat esse. Esse eiusmod in pariatur aliquip sunt adipisicing esse magna ipsum proident velit eu. Tempor minim cillum pariatur laboris amet duis sunt deserunt et anim. Consequat in laboris qui quis pariatur enim velit non.",
+      "distanceInMeters": 901
     }
   },
   {
-    "kind": "service",
+    "kind": "consumer_goods",
     "item": {
-      "id": "5a79bcf4f1724bdf8269d819",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image10.jpg",
-      "price": "320€",
-      "name": "quis",
-      "description": "Sit ullamco voluptate adipisicing sint fugiat dolor. Consequat aliqua voluptate occaecat ullamco ea pariatur anim eiusmod pariatur esse. Laborum reprehenderit et mollit id qui adipisicing culpa. Do est qui ipsum quis sunt ea laboris dolor.",
+      "id": "5a7ab3e0928f43b458a3edd4",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image9.jpg",
+      "price": "864€",
+      "mame": "incididunt",
+      "color": "red",
+      "category": "games",
+      "description": "Fugiat ea Lorem sit excepteur aliqua eu pariatur laboris amet ad id. Reprehenderit laboris sunt aute nostrud exercitation. Ea magna fugiat dolore aute in in cupidatat qui aute laborum. Id quis duis nisi pariatur. Sit veniam sit est occaecat enim et aliqua aute sit duis labore et. Ea ipsum consectetur incididunt aliquip magna in.",
+      "distanceInMeters": 366
+    }
+  },
+  {
+    "kind": "consumer_goods",
+    "item": {
+      "id": "5a7ab3e0e3d0c13f9808ea35",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
+      "price": "211€",
+      "mame": "commodo",
+      "color": "orange",
+      "category": "tech",
+      "description": "Id amet deserunt exercitation aliquip. Consectetur enim sunt nostrud esse cillum amet veniam nisi ex ullamco. Officia sit incididunt aliqua fugiat culpa velit minim labore voluptate ex voluptate pariatur adipisicing occaecat. Do ea id labore occaecat amet ea ipsum voluptate ipsum sunt.",
+      "distanceInMeters": 432
+    }
+  },
+  {
+    "kind": "consumer_goods",
+    "item": {
+      "id": "5a7ab3e09a053bc8ebb09a13",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
+      "price": "740€",
+      "mame": "ullamco",
+      "color": "green",
+      "category": "leisure",
+      "description": "Veniam cillum officia Lorem labore commodo sunt velit dolor veniam minim amet eiusmod in. Pariatur amet exercitation ad sit aute eiusmod tempor Lorem amet. Nisi magna velit et ea quis est.",
+      "distanceInMeters": 924
+    }
+  },
+  {
+    "kind": "consumer_goods",
+    "item": {
+      "id": "5a7ab3e02a852e700ae3f5c8",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
+      "price": "186€",
+      "mame": "et",
+      "color": "green",
+      "category": "tech",
+      "description": "Proident sit anim nisi et Lorem laborum nulla quis excepteur. Enim aliqua qui magna aliqua aliqua nulla sint. Ut et fugiat dolor Lorem laborum. Ullamco fugiat magna ea Lorem mollit id proident aute labore Lorem aliqua.",
+      "distanceInMeters": 368
+    }
+  },
+  {
+    "kind": "consumer_goods",
+    "item": {
+      "id": "5a7ab3e0f981c180f1ba21b1",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image9.jpg",
+      "price": "887€",
+      "mame": "nulla",
+      "color": "red",
+      "category": "games",
+      "description": "Ut irure nisi nostrud ut ad labore do. Sint aliquip reprehenderit qui sit in irure et et. Consectetur amet eiusmod fugiat ad voluptate minim nulla aliquip culpa aute consectetur aliquip. Consectetur qui voluptate proident magna cillum dolore id deserunt ex proident nisi sunt sit dolore. Ea velit labore irure aliqua reprehenderit consectetur irure eu.",
+      "distanceInMeters": 796
+    }
+  },
+  {
+    "kind": "consumer_goods",
+    "item": {
+      "id": "5a7ab3e05bb3959061d5f9b9",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
+      "price": "265€",
+      "mame": "sunt",
+      "color": "red",
+      "category": "tech",
+      "description": "Sit id laborum anim incididunt magna fugiat labore dolor anim labore sunt. Incididunt ad commodo magna aliquip sit id id fugiat consequat. Deserunt esse eiusmod anim et nostrud ipsum id. Eu qui esse sint quis irure velit officia sint enim et consectetur consequat enim.",
       "distanceInMeters": 379
     }
   },
   {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf4aab0b8dbe69cc79a",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image3.jpg",
-      "price": "574€",
-      "name": "deserunt",
-      "description": "Ut culpa irure veniam labore eu aliquip commodo ipsum dolor. Consectetur quis Lorem enim tempor. Enim dolore labore anim anim reprehenderit do do. Eu sunt sunt et consectetur enim ex adipisicing do. Qui deserunt magna non esse minim sunt laboris fugiat deserunt nisi.",
-      "distanceInMeters": 471
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf43eb95ed88cb6b911",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
-      "price": "550€",
-      "name": "proident",
-      "description": "Aliqua dolor minim ipsum aute. Deserunt ex minim id sint nostrud ad anim nulla esse commodo nisi sunt cupidatat. Velit eiusmod minim eiusmod est cupidatat ad excepteur labore quis. Velit ut sit elit anim do adipisicing et excepteur adipisicing qui laborum quis magna. Fugiat magna voluptate veniam tempor culpa deserunt id quis do exercitation et do adipisicing. Amet veniam elit quis mollit anim aliqua eu est. Qui Lorem irure cillum consectetur ad proident.",
-      "distanceInMeters": 290
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf4c4f42d894923deb0",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image3.jpg",
-      "price": "494€",
-      "name": "excepteur",
-      "description": "Sunt aute adipisicing laboris dolore veniam et veniam voluptate ullamco velit occaecat ad. Lorem ex amet dolore minim aliquip cupidatat sunt esse id nostrud aliquip culpa ipsum. Ad reprehenderit ullamco enim dolore duis. Aute aliqua non nisi cupidatat veniam elit exercitation laborum id exercitation id.",
-      "distanceInMeters": 251
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4b36ee65dd634b213",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image9.jpg",
-      "price": "703€",
-      "name": "eiusmod",
-      "description": "Laborum veniam ad deserunt nostrud sit do et adipisicing eu. Et eiusmod incididunt commodo Lorem ea officia proident pariatur. Aliquip duis enim voluptate id sit magna nulla. Consectetur nisi cillum mollit incididunt esse qui est id irure irure laboris eu aliquip.",
-      "distanceInMeters": 263
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf4fed3545e1c947bb9",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image3.jpg",
-      "price": "710€",
-      "name": "ullamco",
-      "description": "Eiusmod eu voluptate culpa est cillum. Occaecat nulla ea aute et excepteur sint et culpa. Amet amet veniam do cupidatat magna mollit fugiat fugiat veniam sunt aliqua labore. Incididunt ut irure sint exercitation incididunt consectetur amet adipisicing. Anim in cillum nisi duis velit laborum reprehenderit laboris commodo voluptate magna anim. Sunt ut dolore cupidatat cupidatat amet labore mollit eu dolore Lorem qui minim. Occaecat pariatur proident voluptate do sit sunt consectetur est.",
-      "distanceInMeters": 978
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf41d671a12b578b238",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
-      "price": "973€",
-      "name": "amet",
-      "description": "Dolore esse cillum consequat magna aliqua dolor et consectetur do ad cupidatat. Reprehenderit non aliquip laboris et ut nisi aliquip Lorem. Cupidatat sit consectetur elit exercitation ex. Aute qui mollit incididunt exercitation pariatur officia excepteur adipisicing aliqua irure laboris esse elit. Labore in sit ea incididunt cupidatat. Exercitation deserunt nisi cillum mollit incididunt minim laborum voluptate nisi duis minim non amet do. Fugiat et nulla eiusmod aute ad exercitation excepteur duis et deserunt voluptate.",
-      "distanceInMeters": 602
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf44848e8ca5dc85795",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
-      "price": "924€",
-      "name": "id",
-      "description": "Aliqua pariatur et incididunt enim. Lorem labore ipsum nulla velit esse anim reprehenderit culpa duis reprehenderit. Velit velit laboris ex dolore nisi dolor dolore cillum in pariatur ut aliquip eu do.",
-      "distanceInMeters": 690
-    }
-  },
-  {
     "kind": "consumer_goods",
     "item": {
-      "id": "5a79bcf4d5153a2c93347b80",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image3.jpg",
-      "price": "465€",
-      "name": "duis",
-      "description": "Qui est velit nulla mollit incididunt laboris elit. Consectetur officia ipsum qui id aliqua nulla excepteur. Nostrud cillum magna excepteur aute sunt eu elit cupidatat consequat veniam esse elit nostrud sint. Lorem do magna occaecat voluptate sunt dolore qui in veniam do.",
-      "distanceInMeters": 880
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4f03e2a0a0184b292",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image3.jpg",
-      "price": "111€",
-      "name": "qui",
-      "description": "Ex anim aliquip amet dolore fugiat eiusmod excepteur veniam excepteur fugiat laborum laboris. Sunt dolor ea laboris ea cupidatat sunt aliqua sunt aute. Exercitation sunt proident excepteur id id mollit. Velit nostrud fugiat laboris id dolore laboris.",
-      "distanceInMeters": 449
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4cfb6826b0dde7ff7",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
-      "price": "467€",
-      "name": "est",
-      "description": "Minim dolore culpa eiusmod consequat aute ullamco. Laborum commodo sint do in ullamco ad nostrud duis ad proident Lorem. Aute voluptate non nulla amet excepteur incididunt. Sunt adipisicing aliquip in id nulla officia esse est est irure quis eiusmod sint duis. Quis dolore anim nulla eiusmod laborum irure duis ut.",
-      "distanceInMeters": 463
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf4a275fcda96455e9a",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
-      "price": "192€",
-      "name": "sint",
-      "description": "Incididunt non aute minim do cupidatat ad pariatur laborum adipisicing. Minim ipsum dolor ullamco mollit duis ea sint culpa ea. Tempor aliquip quis sit irure nostrud labore laboris do voluptate occaecat Lorem. Cillum reprehenderit minim est laboris consectetur voluptate cillum ad eiusmod. Nulla aute nostrud et tempor cupidatat non id culpa cillum dolore dolor adipisicing. Ipsum pariatur id non dolore.",
-      "distanceInMeters": 260
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4d7ae6b5b6ad8169e",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
-      "price": "664€",
-      "name": "qui",
-      "description": "Minim irure quis deserunt fugiat et in. Ullamco aliquip esse nostrud proident nostrud adipisicing sunt dolore ullamco proident enim cupidatat. Velit aute deserunt deserunt culpa velit irure.",
-      "distanceInMeters": 297
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf4411d4c3fbac6f06f",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
-      "price": "145€",
-      "name": "magna",
-      "description": "Nostrud ipsum amet dolor ipsum culpa dolore do minim incididunt enim do. Cupidatat in sunt irure nostrud irure voluptate voluptate. Commodo quis Lorem labore proident cupidatat ea magna quis sit elit consequat amet. Est exercitation qui ullamco et irure do consequat consequat aliquip esse cupidatat qui in ex. Do nisi et sit Lorem commodo elit proident.",
-      "distanceInMeters": 269
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4fe484638f8e3fd1c",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image3.jpg",
-      "price": "924€",
-      "name": "quis",
-      "description": "Irure officia ullamco sit eiusmod adipisicing enim amet dolor culpa Lorem occaecat proident laborum culpa. Minim sint est ut cupidatat ut quis anim in quis Lorem. Excepteur proident et enim ullamco pariatur aliqua nisi eu excepteur exercitation.",
-      "distanceInMeters": 315
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4bb7fba8df57c3a63",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image10.jpg",
-      "price": "435€",
-      "name": "pariatur",
-      "description": "Minim deserunt sunt cillum excepteur labore aute dolore ea nisi excepteur. Minim ex dolore do laboris culpa ea amet aute fugiat ad consequat non. Minim nulla quis excepteur ipsum enim ea sit anim pariatur exercitation veniam excepteur elit.",
-      "distanceInMeters": 303
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4fe71a55f44b5af51",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "517€",
-      "name": "sint",
-      "description": "Est esse et est est dolor est irure ipsum proident est mollit. Officia nulla sint do consequat laborum ipsum aute. Occaecat aliqua exercitation qui ullamco velit voluptate anim proident mollit id velit. Voluptate eu non consequat amet laborum ad pariatur anim laboris quis aute ex eu.",
-      "distanceInMeters": 844
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf4aab0b8dbe69cc79a",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image3.jpg",
-      "price": "574€",
-      "name": "deserunt",
-      "description": "Ut culpa irure veniam labore eu aliquip commodo ipsum dolor. Consectetur quis Lorem enim tempor. Enim dolore labore anim anim reprehenderit do do. Eu sunt sunt et consectetur enim ex adipisicing do. Qui deserunt magna non esse minim sunt laboris fugiat deserunt nisi.",
-      "distanceInMeters": 471
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf433b22448d4530c63",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
-      "price": "371€",
-      "name": "nostrud",
-      "description": "Aliqua pariatur ut adipisicing eu occaecat ullamco sit irure quis nisi do. Veniam ea sunt eu officia. Ut est excepteur velit aliqua officia Lorem culpa exercitation amet officia nostrud nisi quis. Incididunt sit ullamco irure fugiat incididunt minim non et anim aute anim. Fugiat pariatur cupidatat consequat consectetur aliquip excepteur magna ipsum culpa Lorem esse non consectetur voluptate. Excepteur enim laboris proident culpa et ut qui qui elit duis quis nisi.",
-      "distanceInMeters": 673
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4628929d30c575903",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
-      "price": "870€",
-      "name": "id",
-      "description": "Laborum mollit minim ad sunt occaecat labore do consectetur ut ea cupidatat eu Lorem. Commodo dolore ut aliqua ad fugiat sunt quis excepteur tempor elit. Ex amet consequat enim amet proident anim irure excepteur ea duis qui officia qui ullamco.",
-      "distanceInMeters": 156
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf47f0cdada5120c043",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "735€",
-      "name": "officia",
-      "description": "Est qui qui ullamco laboris labore non non duis. Magna non elit velit sunt. Reprehenderit duis non et cupidatat non exercitation nisi sint minim sint ipsum occaecat Lorem proident. Enim laboris velit tempor dolor est commodo laboris Lorem officia proident. Irure cupidatat cupidatat sit enim ea laboris ad esse qui sint exercitation mollit labore.",
-      "distanceInMeters": 713
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf46e89ede7d4b58b64",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
-      "price": "956€",
-      "name": "dolore",
-      "description": "Nostrud eu enim adipisicing reprehenderit do. Dolor excepteur dolor laboris do do ut voluptate aute nostrud pariatur sunt eiusmod dolore. Et Lorem adipisicing incididunt excepteur consequat id quis voluptate tempor deserunt.",
-      "distanceInMeters": 413
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf405bbaeb77560c587",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
-      "price": "658€",
-      "name": "voluptate",
-      "description": "Adipisicing commodo duis voluptate aliquip enim nostrud qui exercitation ullamco aute. Nisi laborum nostrud Lorem aute fugiat minim duis magna do cillum excepteur enim ullamco exercitation. Commodo do velit tempor anim sit laboris Lorem aliqua velit ullamco quis officia qui. Sunt quis tempor nulla voluptate magna aute qui elit sit. Mollit eu ipsum ut ipsum nostrud dolor magna magna laborum cillum minim veniam reprehenderit.",
-      "distanceInMeters": 431
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf484e1308cfb9ffea6",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
-      "price": "99€",
-      "name": "aute",
-      "description": "Culpa enim proident anim eiusmod incididunt Lorem voluptate est do qui fugiat sint elit ut. Esse exercitation magna irure sint nisi magna Lorem officia sunt. Proident sit sit reprehenderit ut proident laborum quis adipisicing commodo duis. Qui et tempor quis nulla officia cillum deserunt. Culpa pariatur proident occaecat proident exercitation occaecat incididunt ut. Excepteur reprehenderit elit amet ad enim labore sit in nostrud exercitation Lorem. Adipisicing mollit ea labore dolore nostrud proident.",
-      "distanceInMeters": 744
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf42ea94c4917be962e",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image9.jpg",
-      "price": "847€",
-      "name": "deserunt",
-      "description": "Cupidatat nisi ut ut reprehenderit commodo. Eu esse fugiat amet ullamco. Anim ipsum ipsum elit ullamco magna ut duis adipisicing elit duis sint labore. Tempor ipsum anim mollit nostrud proident occaecat ipsum quis qui mollit sit dolor aliqua ea. Ipsum fugiat eu labore elit labore non voluptate sunt irure eu Lorem ullamco. Incididunt consequat proident aliqua in ea veniam consectetur ut cillum aliqua. Enim ad exercitation quis nulla pariatur.",
-      "distanceInMeters": 213
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf4f3020ec97d8b27c0",
+      "id": "5a7ab3e0e7320bc46296ea23",
       "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
-      "price": "146€",
-      "name": "nulla",
-      "description": "Tempor mollit nostrud deserunt non irure cupidatat pariatur elit ad Lorem aliquip. Elit eiusmod fugiat consequat et anim sunt labore aliquip non amet ea. Aute Lorem commodo aute aliquip consequat nostrud labore ad ex. Non tempor quis occaecat eiusmod do reprehenderit culpa sit consequat voluptate aute. Occaecat anim magna dolore quis cillum aliqua anim anim ea magna.",
-      "distanceInMeters": 700
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf484effe18830f24b1",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
-      "price": "227€",
-      "name": "consequat",
-      "description": "Nostrud adipisicing exercitation nisi ut nostrud laborum quis. Incididunt excepteur consequat veniam non ut culpa Lorem veniam cupidatat ad ipsum exercitation do aute. Sunt nulla anim ad sit cillum dolore ullamco aliqua. Irure tempor laborum dolor cillum eu dolore aliquip cupidatat excepteur elit proident sint commodo qui. Eu aute eiusmod laborum incididunt reprehenderit minim magna ipsum. Veniam dolor in laboris in aliqua sint reprehenderit fugiat adipisicing duis elit occaecat. Non labore mollit incididunt aliquip elit do incididunt dolore.",
-      "distanceInMeters": 641
+      "price": "41€",
+      "mame": "id",
+      "color": "yellow",
+      "category": "games",
+      "description": "Excepteur quis reprehenderit enim et. Veniam reprehenderit excepteur fugiat eiusmod voluptate dolore et qui cillum ea. Consectetur reprehenderit dolor minim amet mollit laborum nulla duis occaecat incididunt irure fugiat et. Tempor labore excepteur deserunt ea proident ut proident irure.",
+      "distanceInMeters": 674
     }
   },
   {
     "kind": "consumer_goods",
     "item": {
-      "id": "5a79bcf4436cf179ee0942a6",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
-      "price": "271€",
-      "name": "excepteur",
-      "description": "Deserunt magna voluptate ipsum elit eu elit id. Lorem quis consequat quis deserunt laboris. Ipsum aliquip eu irure pariatur sunt. Magna laborum dolor sunt irure exercitation cupidatat magna quis do quis. Laboris culpa ipsum excepteur cupidatat laboris aliquip laboris in ipsum. Duis pariatur labore ipsum eu officia. Commodo incididunt laboris occaecat laborum et do consectetur nisi ad aliquip sit ut.",
-      "distanceInMeters": 969
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf460d6952521445dd3",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
-      "price": "257€",
-      "name": "irure",
-      "description": "Nostrud ea mollit cillum esse velit incididunt voluptate ipsum. Ullamco adipisicing nostrud est enim ullamco do. Ex ea ea cillum voluptate ipsum excepteur nisi ipsum aliquip id proident quis quis Lorem. Id labore laboris duis aliqua cillum do laboris ullamco pariatur ipsum. Veniam ipsum aute nostrud labore. Eiusmod nostrud consequat pariatur sit magna laboris sit nostrud excepteur eiusmod nisi consectetur aliquip quis. Qui voluptate irure eiusmod consequat labore deserunt anim adipisicing veniam et eu ipsum nostrud reprehenderit.",
-      "distanceInMeters": 707
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf441f6c8c8b6b4f439",
+      "id": "5a7ab3e07b810465f27f69cc",
       "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image3.jpg",
-      "price": "20€",
-      "name": "est",
-      "description": "Irure nisi sit laboris minim occaecat nostrud amet Lorem cupidatat exercitation qui enim. Aute reprehenderit incididunt pariatur quis excepteur veniam aliqua irure minim incididunt eu mollit id. Lorem anim tempor veniam non nisi labore minim adipisicing amet fugiat eiusmod esse esse. Consequat ad elit mollit adipisicing est. Culpa nulla ut eu adipisicing pariatur nisi nulla anim reprehenderit cupidatat minim. Eiusmod pariatur cupidatat aute magna ad excepteur est minim ullamco fugiat cillum nisi.",
-      "distanceInMeters": 958
+      "price": "839€",
+      "mame": "id",
+      "color": "orange",
+      "category": "leisure",
+      "description": "Exercitation do exercitation magna est tempor ipsum. Ullamco non exercitation est enim anim nisi sint excepteur. Proident et tempor labore ex aute amet aute est reprehenderit. Reprehenderit amet nisi ex magna id in dolor do labore labore occaecat in nostrud eiusmod. Incididunt veniam cillum aliqua eu non ea exercitation velit.",
+      "distanceInMeters": 272
     }
   },
   {
     "kind": "consumer_goods",
     "item": {
-      "id": "5a79bcf470995711fd8a3ea2",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
-      "price": "467€",
-      "name": "sunt",
-      "description": "Id occaecat quis mollit quis. Ex nisi consectetur magna voluptate esse qui minim do elit laboris laborum aliqua sint velit. Non culpa esse esse id velit sit ea et. Adipisicing officia pariatur amet magna officia ea eiusmod. Id cillum do occaecat consectetur eiusmod qui laboris proident amet pariatur deserunt deserunt voluptate.",
-      "distanceInMeters": 346
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4c91c0f2165fc60e3",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
-      "price": "265€",
-      "name": "mollit",
-      "description": "Nisi incididunt sint officia consequat minim occaecat ipsum culpa commodo pariatur. Ut cupidatat exercitation exercitation officia irure velit. Veniam proident incididunt reprehenderit velit laborum magna labore esse nulla. Sint labore magna cupidatat excepteur Lorem aliqua sunt reprehenderit do ipsum esse occaecat sunt. Ipsum ut mollit eu non nisi. Culpa duis sit ullamco amet do amet in veniam velit irure deserunt.",
-      "distanceInMeters": 975
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf413adf19b39116349",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
-      "price": "622€",
-      "name": "eu",
-      "description": "Fugiat minim enim aute consectetur in qui fugiat. Eiusmod est commodo culpa aute mollit aute mollit nostrud consectetur est esse eu. Culpa duis consequat ut deserunt consectetur esse deserunt officia cillum ullamco esse. Mollit amet commodo adipisicing cupidatat sint officia. Commodo eiusmod veniam dolor id consectetur veniam amet minim. Dolore nostrud mollit amet incididunt.",
-      "distanceInMeters": 377
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf43f48821ac116aded",
+      "id": "5a7ab3e0e014348eafbb23e2",
       "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "412€",
-      "name": "sint",
-      "description": "Aliqua incididunt ipsum est incididunt fugiat sit ipsum tempor. Esse esse qui ea veniam. Excepteur exercitation magna veniam amet dolore esse sunt cillum mollit ut officia. Culpa sint do consectetur tempor amet consectetur laboris do. Sunt exercitation cupidatat mollit ea cupidatat. Commodo cupidatat sint aute quis fugiat voluptate excepteur excepteur veniam labore excepteur. Nulla aliquip cillum id ullamco nostrud sunt proident qui minim tempor.",
-      "distanceInMeters": 995
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf4426e60b2ed55efcf",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image9.jpg",
-      "price": "708€",
-      "name": "aute",
-      "description": "Dolore sit adipisicing consectetur ut ut Lorem adipisicing commodo dolore. Esse mollit incididunt aliquip sit duis proident culpa proident anim do proident veniam cillum. Ut incididunt irure aliquip eiusmod eu. Irure ullamco proident veniam sunt laborum commodo culpa adipisicing eiusmod minim eiusmod deserunt occaecat. Velit pariatur ullamco labore dolore id in magna ullamco pariatur do aliquip veniam aliqua. Quis magna elit eiusmod cupidatat eiusmod ipsum aliquip cillum cillum cillum occaecat nisi. Sit ullamco ex occaecat non cillum.",
-      "distanceInMeters": 126
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf42c58cca93adf2148",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
-      "price": "914€",
-      "name": "nostrud",
-      "description": "Sint labore eiusmod esse aliqua laboris dolor eu anim commodo non id elit sint. Aliqua qui commodo qui consectetur est proident officia quis pariatur nostrud veniam magna exercitation. Ut culpa non ad cillum ad nostrud sit. Veniam irure voluptate minim ad sunt est tempor qui velit nostrud irure incididunt ea amet. Dolor proident officia elit dolor sint consectetur eu aute deserunt quis est sunt. Veniam labore eiusmod fugiat nostrud. Nulla eu deserunt tempor occaecat cupidatat laborum quis laboris.",
-      "distanceInMeters": 260
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf43a607b50d48706c5",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
-      "price": "642€",
-      "name": "aliqua",
-      "description": "Laboris aute reprehenderit nisi reprehenderit tempor pariatur aute. Aliqua et ut ad sunt non qui deserunt officia laborum reprehenderit velit reprehenderit commodo. Magna et et et fugiat sit officia tempor velit adipisicing nostrud cillum laborum mollit ex. Ea culpa ullamco elit est commodo dolore reprehenderit consequat. Deserunt ipsum incididunt proident eiusmod in tempor officia officia.",
-      "distanceInMeters": 917
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf4f41fa835d8938f24",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "719€",
-      "name": "aute",
-      "description": "Ullamco mollit laboris cupidatat velit Lorem magna veniam in non officia commodo magna non irure. Deserunt ex proident velit ea consequat tempor nostrud exercitation mollit exercitation in in cillum. Voluptate anim cillum commodo enim qui ut dolor ut aliquip fugiat cupidatat exercitation minim. Ad occaecat officia tempor esse ullamco reprehenderit. Irure mollit sint proident cillum nisi excepteur Lorem tempor aliqua do sint minim veniam minim.",
-      "distanceInMeters": 947
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf43a9f499518e26921",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image3.jpg",
-      "price": "744€",
-      "name": "enim",
-      "description": "Do consequat excepteur dolore fugiat et in. Proident proident incididunt quis dolore aute mollit eiusmod irure fugiat veniam consectetur minim. Sint consectetur sit aliqua exercitation dolore exercitation velit officia non voluptate amet ex. Laboris aliquip commodo est sunt magna eiusmod. Velit sunt ex magna sunt ipsum mollit ea. Sint amet do veniam ut sunt quis tempor.",
-      "distanceInMeters": 306
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf44f6d4daf946da6ac",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
-      "price": "200€",
-      "name": "voluptate",
-      "description": "Excepteur eu anim dolore ipsum dolor fugiat magna. Eu ut ad deserunt sint commodo consectetur laboris est aliquip. Cupidatat ea laboris qui esse labore dolor. Incididunt nisi id do in enim. Cillum dolor Lorem voluptate aliquip nulla irure elit. Nisi consequat cupidatat exercitation ut exercitation culpa labore aliquip id officia culpa occaecat in do.",
+      "price": "333€",
+      "mame": "reprehenderit",
+      "color": "orange",
+      "category": "leisure",
+      "description": "Adipisicing exercitation commodo proident velit eiusmod cupidatat irure velit magna sit magna voluptate. Enim nisi ut incididunt labore labore reprehenderit. Elit occaecat minim elit quis dolor sint laboris elit pariatur esse pariatur non in et. Ad id nulla dolor mollit nulla deserunt incididunt qui ex. Et dolore aliqua labore ut irure aute consectetur esse ullamco dolor. Et esse culpa nulla aliqua do culpa dolor ipsum est esse nisi. Pariatur veniam exercitation ullamco eiusmod esse sunt pariatur velit proident consequat incididunt.",
       "distanceInMeters": 447
     }
   },
   {
     "kind": "consumer_goods",
     "item": {
-      "id": "5a79bcf482b34570f0246a84",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
-      "price": "171€",
-      "name": "tempor",
-      "description": "Ad occaecat eu irure ut sit fugiat incididunt mollit. Aute in amet eu qui velit qui aute officia officia Lorem. Consequat do ea consequat dolore cillum incididunt ullamco adipisicing aliqua enim et. Esse duis cillum laborum pariatur fugiat anim ut cillum labore aute quis.",
-      "distanceInMeters": 404
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf433ef928f32dce8e3",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image10.jpg",
-      "price": "352€",
-      "name": "amet",
-      "description": "Nostrud cupidatat aliqua id aliquip amet et aliquip qui ut aliqua. Commodo tempor ipsum in non elit deserunt consectetur elit consectetur non. Et est cupidatat commodo anim. Aute nostrud mollit esse reprehenderit nostrud enim.",
-      "distanceInMeters": 540
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf4bb38663e87ec7d2c",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
-      "price": "928€",
-      "name": "minim",
-      "description": "Fugiat laborum Lorem do adipisicing elit pariatur. Sit dolore ipsum non Lorem duis enim. Ad ipsum nisi velit deserunt nulla consectetur id consequat. Eiusmod do qui nisi ullamco. Dolor elit anim non ea ad mollit nisi sunt tempor aliqua do deserunt pariatur eu. Culpa dolore cupidatat et consequat aute amet labore laborum veniam. Cupidatat nulla do tempor sunt do.",
-      "distanceInMeters": 568
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf4471f790530ce3763",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
-      "price": "895€",
-      "name": "aute",
-      "description": "Occaecat exercitation laboris nulla dolore amet nisi culpa dolore veniam anim. Fugiat consequat adipisicing sint eu ipsum pariatur nulla Lorem adipisicing magna sit voluptate. Mollit id sit eiusmod incididunt cupidatat voluptate ullamco deserunt eiusmod. Minim est laboris et qui occaecat cupidatat nostrud mollit ea duis eu sunt laboris cillum. Minim sint anim nisi consequat dolore eu.",
-      "distanceInMeters": 128
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf48c40ff4a240a826e",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image10.jpg",
-      "price": "847€",
-      "name": "ad",
-      "description": "Voluptate nulla ea est mollit quis sunt pariatur pariatur enim dolor laborum incididunt. Tempor incididunt non tempor dolor dolor ullamco eiusmod. Lorem qui deserunt non dolore velit labore. Magna occaecat anim elit labore ut ut Lorem quis officia.",
-      "distanceInMeters": 713
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf41b465ef5c1456344",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
-      "price": "692€",
-      "name": "aliqua",
-      "description": "Amet dolor ut consequat officia sint esse nulla nisi. Officia sunt sint consectetur cillum fugiat elit nulla labore adipisicing cupidatat incididunt. Ullamco reprehenderit ullamco duis irure velit reprehenderit culpa id laboris. Pariatur excepteur incididunt qui commodo ea velit occaecat proident occaecat officia dolore id esse excepteur. Adipisicing proident culpa nulla sint tempor. Consectetur cillum esse amet id velit ex aliquip cupidatat laborum. Sit ad duis nulla fugiat exercitation qui nisi laboris minim velit occaecat.",
-      "distanceInMeters": 497
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf45a2e6a2675518ba4",
+      "id": "5a7ab3e0c8afae53620b7eb7",
       "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
-      "price": "920€",
-      "name": "pariatur",
-      "description": "In aliqua et elit enim proident ut esse. Sit sunt sunt deserunt mollit commodo et esse eiusmod est. Dolore enim eu ad occaecat velit labore tempor fugiat reprehenderit. Est tempor aliquip aliqua occaecat ea. Eiusmod consectetur pariatur anim ullamco qui qui sint nostrud. Aliquip sint laboris nulla magna fugiat veniam.",
-      "distanceInMeters": 916
+      "price": "715€",
+      "mame": "occaecat",
+      "color": "orange",
+      "category": "tech",
+      "description": "Amet elit ipsum labore exercitation sit incididunt sunt officia voluptate. Excepteur ipsum sint aliqua culpa ullamco dolore consequat aliquip velit proident. Voluptate ut ullamco fugiat aute.",
+      "distanceInMeters": 576
     }
   },
   {
     "kind": "car",
     "item": {
-      "id": "5a79bcf41ccad8a3101484f7",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
-      "price": "373€",
-      "name": "excepteur",
-      "description": "Et quis officia deserunt id nisi incididunt commodo aliquip. Sunt aute ex aliquip ullamco aliqua sit voluptate do. Ea laboris nostrud id ullamco exercitation. Mollit labore proident eiusmod officia voluptate ullamco deserunt fugiat consequat ad consequat eiusmod labore consequat.",
-      "distanceInMeters": 217
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf55a995ca86a022fdd",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
-      "price": "989€",
-      "name": "amet",
-      "description": "Mollit irure duis Lorem consectetur aute incididunt mollit reprehenderit duis. Anim consectetur enim proident consequat ut eu. Duis mollit excepteur velit nisi qui consectetur tempor veniam deserunt esse proident. Pariatur non fugiat qui minim duis minim elit excepteur nulla. Exercitation quis magna do consequat aliqua aliqua pariatur veniam ad culpa tempor nisi sunt sint.",
-      "distanceInMeters": 173
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf5a852776a83d25c8f",
+      "id": "5a7ab5108d12300142fae4a7",
       "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
-      "price": "843€",
-      "name": "irure",
-      "description": "Minim qui occaecat qui eu cillum esse. Ea sit eiusmod aliqua dolore do cupidatat occaecat nisi. Esse incididunt occaecat exercitation cillum fugiat velit est mollit incididunt laborum nulla.",
-      "distanceInMeters": 554
+      "price": "354076€",
+      "mame": "duis",
+      "motor": "gasoline",
+      "gearbox": "manual",
+      "brand": "irure",
+      "km": 1341,
+      "description": "Ad eiusmod consectetur nisi enim ex laborum duis adipisicing consectetur pariatur culpa minim. Aliqua quis proident tempor exercitation commodo nisi excepteur quis laborum eu nulla. Irure proident eiusmod nulla ea ut mollit ullamco ea reprehenderit nisi quis id ad et.",
+      "distanceInMeters": 841
     }
   },
   {
     "kind": "consumer_goods",
     "item": {
-      "id": "5a79bcf57bbb809a881494fe",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
-      "price": "780€",
-      "name": "Lorem",
-      "description": "Lorem fugiat elit sunt laborum magna anim ut adipisicing tempor duis sunt eu incididunt exercitation. Incididunt nostrud nisi enim velit amet excepteur do excepteur incididunt nulla. Aute mollit cillum id voluptate tempor quis nulla ad deserunt consequat dolor consequat et nulla. Magna ad tempor aliqua adipisicing ut in nostrud aute fugiat aute reprehenderit. Incididunt dolor qui voluptate elit. Voluptate Lorem aute sit adipisicing cillum velit. Voluptate aliquip non esse irure aliqua sint eu culpa.",
-      "distanceInMeters": 210
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf58ffe0fe94bdfd4ba",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
-      "price": "864€",
-      "name": "anim",
-      "description": "Amet duis esse enim ipsum esse fugiat veniam ex irure velit. Nostrud nostrud esse do minim adipisicing labore voluptate tempor irure magna do ea aliqua id. Anim enim sit irure sint reprehenderit. Aliquip minim eu tempor eiusmod cillum nostrud. Magna dolor officia in nisi. Esse dolore labore do fugiat esse velit officia pariatur. Consequat minim cupidatat proident pariatur voluptate sit occaecat sunt incididunt exercitation laborum occaecat.",
-      "distanceInMeters": 784
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf5ba7d56a1a53584c0",
+      "id": "5a7ab3e0b5cee4af3cb845bc",
       "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
-      "price": "111€",
-      "name": "aute",
-      "description": "Cillum occaecat laborum duis sunt est. Commodo qui consequat proident occaecat exercitation pariatur tempor. Quis id amet proident veniam reprehenderit.",
-      "distanceInMeters": 943
-    }
-  },
-  {
-    "kind": "car",
-    "item": {
-      "id": "5a79bcf557407c2b0667f3f1",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "87€",
-      "name": "deserunt",
-      "description": "In duis esse ex adipisicing occaecat id laboris elit irure eiusmod exercitation veniam in. Deserunt veniam dolore magna dolor duis non fugiat dolore enim ipsum veniam reprehenderit exercitation ullamco. Id Lorem est proident deserunt adipisicing id culpa ad elit cupidatat culpa id. Occaecat cupidatat do elit sit non ipsum consequat velit officia mollit magna commodo. Incididunt excepteur voluptate culpa dolor occaecat mollit ipsum anim adipisicing id exercitation nulla ipsum. Irure incididunt qui magna qui ullamco.",
-      "distanceInMeters": 577
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf52bb40550df2e47ed",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
-      "price": "433€",
-      "name": "irure",
-      "description": "Sint dolore incididunt deserunt est ea labore. Sunt tempor sunt nisi nulla irure laboris eu. Consectetur officia sint sit eu sit adipisicing eiusmod reprehenderit ipsum amet excepteur non excepteur. Labore labore proident tempor exercitation cupidatat culpa. Dolore duis aliquip do incididunt ipsum duis ea pariatur ad ipsum ipsum laborum magna magna. Ut irure proident proident pariatur anim in cupidatat duis. Fugiat anim aliqua et aute magna aliquip fugiat minim minim adipisicing aliquip dolor amet.",
-      "distanceInMeters": 410
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf5f94fdc13aac89e58",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "529€",
-      "name": "labore",
-      "description": "Exercitation commodo elit qui adipisicing consequat labore ad minim anim. Ut in id voluptate nisi consequat do fugiat labore. Do sunt nulla dolore et dolor cupidatat reprehenderit duis excepteur reprehenderit nostrud ullamco. Ea qui eiusmod minim ea pariatur. Amet voluptate sit culpa aliqua. Cillum sit velit magna cupidatat esse incididunt reprehenderit veniam ut id amet consectetur ut.",
-      "distanceInMeters": 710
+      "price": "69€",
+      "mame": "commodo",
+      "color": "red",
+      "category": "games",
+      "description": "Eu ipsum velit dolor ea est tempor aliqua sit. Officia proident officia ex duis ipsum est magna id sit. Ex aute veniam nisi est eu deserunt. Consequat culpa nulla incididunt tempor enim proident exercitation consectetur.",
+      "distanceInMeters": 789
     }
   },
   {
     "kind": "consumer_goods",
     "item": {
-      "id": "5a79bcf572e60668fa28288b",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
-      "price": "438€",
-      "name": "deserunt",
-      "description": "Nulla sint quis do reprehenderit fugiat magna excepteur duis dolore cupidatat. Culpa consequat ullamco veniam cupidatat officia excepteur culpa id esse fugiat magna. Enim tempor deserunt esse aute ea officia cupidatat occaecat officia officia ad occaecat culpa. In quis ipsum enim enim magna id veniam fugiat in est mollit sunt laboris.",
-      "distanceInMeters": 891
+      "id": "5a7ab3e0e4d0771d84da983f",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
+      "price": "392€",
+      "mame": "culpa",
+      "color": "green",
+      "category": "children",
+      "description": "Est veniam eiusmod officia esse nostrud pariatur labore cillum adipisicing fugiat fugiat duis velit ea. Laboris pariatur laborum ipsum elit. Fugiat elit amet labore consectetur ea duis sunt anim. Reprehenderit pariatur voluptate Lorem fugiat fugiat. Reprehenderit aute aute minim aliqua non consectetur et proident officia. Et est laboris commodo duis.",
+      "distanceInMeters": 579
     }
   },
   {
-    "kind": "service",
+    "kind": "consumer_goods",
     "item": {
-      "id": "5a79bcf55d75e0f1bec450c9",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image3.jpg",
-      "price": "522€",
-      "name": "ullamco",
-      "description": "Do Lorem dolor culpa nostrud ullamco aliqua reprehenderit incididunt consectetur ea ut ullamco. Lorem irure eiusmod laborum deserunt commodo non. Culpa dolore ex eiusmod ipsum excepteur proident adipisicing qui duis fugiat velit magna consectetur in.",
-      "distanceInMeters": 660
+      "id": "5a7ab3e02f4d61c37a81ea78",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image10.jpg",
+      "price": "729€",
+      "mame": "eu",
+      "color": "orange",
+      "category": "leisure",
+      "description": "Deserunt ipsum officia excepteur esse enim consequat voluptate magna sint mollit laborum esse. Commodo duis magna in qui ut mollit dolore id. Lorem ad qui commodo commodo tempor duis reprehenderit aliqua elit commodo. Enim culpa commodo laborum mollit exercitation sint adipisicing. Quis ut irure laborum qui excepteur ullamco do deserunt irure dolor cillum do duis ex.",
+      "distanceInMeters": 658
+    }
+  },
+  {
+    "kind": "consumer_goods",
+    "item": {
+      "id": "5a7ab3e000fdbbacc8d5d259",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
+      "price": "198€",
+      "mame": "cillum",
+      "color": "yellow",
+      "category": "leisure",
+      "description": "Mollit nisi ut laborum enim ut ex. Duis ipsum aliquip commodo anim mollit ex aliquip ut culpa consequat duis nulla aute. Consequat culpa occaecat magna quis proident occaecat laboris deserunt.",
+      "distanceInMeters": 528
+    }
+  },
+  {
+    "kind": "consumer_goods",
+    "item": {
+      "id": "5a7ab3e04bf36e58d2a9a254",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
+      "price": "608€",
+      "mame": "sit",
+      "color": "red",
+      "category": "leisure",
+      "description": "Anim sit quis irure et consequat nostrud velit elit. Pariatur eiusmod exercitation ut esse culpa. Commodo nulla officia enim sint proident fugiat incididunt irure minim magna. Occaecat eiusmod laboris ut dolor deserunt veniam voluptate qui ipsum. Qui culpa proident enim aliquip aliqua elit tempor mollit veniam tempor aliqua fugiat nostrud.",
+      "distanceInMeters": 263
+    }
+  },
+  {
+    "kind": "consumer_goods",
+    "item": {
+      "id": "5a7ab3e0a2bc1ab9686375ce",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
+      "price": "973€",
+      "mame": "Lorem",
+      "color": "orange",
+      "category": "leisure",
+      "description": "Dolor fugiat nisi in nisi. Veniam cillum do eiusmod voluptate duis occaecat tempor eu tempor consectetur ea magna excepteur nostrud. Ullamco aute eu duis minim cillum nisi consequat duis labore quis sit ex laborum.",
+      "distanceInMeters": 920
+    }
+  },
+  {
+    "kind": "consumer_goods",
+    "item": {
+      "id": "5a7ab3e0e43815aba42eef83",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
+      "price": "557€",
+      "mame": "amet",
+      "color": "green",
+      "category": "games",
+      "description": "Ea ullamco ipsum ea laboris aliqua tempor. Dolor Lorem ipsum magna esse ex velit. Lorem dolor adipisicing tempor incididunt et cupidatat amet nostrud qui occaecat. Fugiat aliqua ullamco laboris nulla ut. Elit dolor id minim dolore qui tempor eu deserunt cillum nisi aliquip excepteur. Elit eu aute ullamco amet sit exercitation veniam sint. Exercitation sit qui pariatur incididunt anim excepteur fugiat ipsum qui enim sint.",
+      "distanceInMeters": 321
+    }
+  },
+  {
+    "kind": "consumer_goods",
+    "item": {
+      "id": "5a7ab3e0e4d0771d84da983f",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
+      "price": "392€",
+      "mame": "culpa",
+      "color": "green",
+      "category": "children",
+      "description": "Est veniam eiusmod officia esse nostrud pariatur labore cillum adipisicing fugiat fugiat duis velit ea. Laboris pariatur laborum ipsum elit. Fugiat elit amet labore consectetur ea duis sunt anim. Reprehenderit pariatur voluptate Lorem fugiat fugiat. Reprehenderit aute aute minim aliqua non consectetur et proident officia. Et est laboris commodo duis.",
+      "distanceInMeters": 579
+    }
+  },
+  {
+    "kind": "consumer_goods",
+    "item": {
+      "id": "5a7ab3e092c7a7c272212119",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
+      "price": "323€",
+      "mame": "reprehenderit",
+      "color": "yellow",
+      "category": "children",
+      "description": "Commodo aliquip anim aliquip quis consectetur excepteur. Ex dolore eu dolore duis id minim laboris reprehenderit qui nostrud. Adipisicing reprehenderit voluptate eu exercitation sint aliquip minim.",
+      "distanceInMeters": 996
     }
   },
   {
     "kind": "car",
     "item": {
-      "id": "5a79bcf577240506122eb997",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
-      "price": "471€",
-      "name": "sint",
-      "description": "Commodo laborum elit voluptate reprehenderit et velit esse commodo adipisicing incididunt. Commodo labore ullamco sit ut aute nisi dolor exercitation dolore irure. Mollit minim ullamco amet excepteur labore. Commodo dolor dolore occaecat culpa quis nostrud ea velit aliquip laborum. Mollit eiusmod laborum deserunt irure sunt laborum veniam irure voluptate sit labore in nostrud excepteur. Mollit veniam duis eu nostrud excepteur incididunt dolor eu nisi. Deserunt aute nisi labore laboris mollit duis officia reprehenderit eu adipisicing reprehenderit sit amet voluptate.",
+      "id": "5a7ab510fe49b3cbfaf39cd0",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image9.jpg",
+      "price": "156291€",
+      "mame": "amet",
+      "motor": "electric",
+      "gearbox": "manual",
+      "brand": "sint",
+      "km": 9471,
+      "description": "Reprehenderit proident veniam proident adipisicing do sit cupidatat. Voluptate incididunt ullamco id eu anim reprehenderit et velit voluptate veniam est laboris irure. Ut cillum id labore laborum consectetur non. Incididunt exercitation qui ex anim qui aliquip non magna nostrud non ut in ut. Anim dolore in officia enim mollit cupidatat excepteur veniam mollit elit labore. Reprehenderit labore laboris nulla labore sunt cupidatat exercitation amet minim.",
+      "distanceInMeters": 335
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab5107934615b51cc7fc9",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
+      "price": "474817€",
+      "mame": "duis",
+      "motor": "electric",
+      "gearbox": "manual",
+      "brand": "duis",
+      "km": 5636,
+      "description": "Lorem voluptate labore sint non. Laboris enim voluptate amet do culpa excepteur id laborum officia dolor mollit. In occaecat pariatur fugiat eiusmod officia magna dolor tempor ullamco.",
+      "distanceInMeters": 952
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab510312cc22aca1e9757",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
+      "price": "454983€",
+      "mame": "cillum",
+      "motor": "electric",
+      "gearbox": "manual",
+      "brand": "laborum",
+      "km": 2655,
+      "description": "Minim tempor sit eu dolor exercitation mollit voluptate sint duis ad officia elit proident. Sunt eu occaecat in minim laboris tempor nulla consequat magna proident esse non ea. Qui minim laborum consectetur sunt occaecat ea et sit amet pariatur est. Reprehenderit consectetur magna ex nostrud do veniam.",
+      "distanceInMeters": 654
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab51060eea2787263fe86",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image9.jpg",
+      "price": "178393€",
+      "mame": "tempor",
+      "motor": "electric",
+      "gearbox": "manual",
+      "brand": "excepteur",
+      "km": 7754,
+      "description": "Dolore eu ut elit enim cillum in sunt excepteur laborum. Enim veniam velit deserunt consectetur reprehenderit reprehenderit dolore laborum irure reprehenderit adipisicing cillum. Enim commodo minim est aliquip incididunt in minim. Officia ut anim dolore est amet enim ut nostrud id officia laboris consectetur cillum ex.",
+      "distanceInMeters": 960
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab510a6ad7f34888976f2",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
+      "price": "260083€",
+      "mame": "elit",
+      "motor": "electric",
+      "gearbox": "automatic",
+      "brand": "reprehenderit",
+      "km": 2029,
+      "description": "Sunt cillum cupidatat sit nostrud cupidatat non dolore non ex sit incididunt est ea non. Ad eu aliqua mollit commodo qui ullamco culpa consequat labore ea et occaecat excepteur. Est sint est veniam officia veniam magna incididunt sit nulla culpa culpa commodo. Laborum fugiat id velit cupidatat aliqua et pariatur duis. Reprehenderit magna ad aute in deserunt dolor ut laboris velit est non anim laborum eiusmod. Nostrud esse proident esse ex aliquip sint. Irure deserunt duis non ea eiusmod nulla aute.",
       "distanceInMeters": 837
     }
   },
   {
-    "kind": "service",
+    "kind": "car",
     "item": {
-      "id": "5a79bcf5ffda933fa9a84771",
+      "id": "5a7ab510ee48e821e5c3ea9c",
       "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
-      "price": "114€",
-      "name": "exercitation",
-      "description": "Fugiat culpa esse officia ut reprehenderit elit id consequat aute exercitation. Duis duis ullamco duis commodo sunt. Minim cillum eiusmod anim id ex dolor.",
-      "distanceInMeters": 445
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf5fc7d38fc32cebcbc",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "618€",
-      "name": "anim",
-      "description": "Dolor non cillum id dolor incididunt. Irure labore pariatur sint magna. Velit duis fugiat laboris velit occaecat nulla. Quis ipsum consequat occaecat ullamco nulla quis excepteur velit. Labore quis nulla veniam mollit enim et incididunt sunt. Officia eu voluptate reprehenderit est mollit velit ea excepteur.",
-      "distanceInMeters": 821
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf53ec7842ecc82baf0",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "244€",
-      "name": "duis",
-      "description": "Eiusmod officia anim sunt laborum laboris. Duis cupidatat ut et sint id irure officia aliqua ex est nisi. Sunt laboris officia consectetur fugiat minim laboris Lorem do id sint cillum ipsum qui.",
-      "distanceInMeters": 936
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf50e6e26461ffb875c",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
-      "price": "905€",
-      "name": "aute",
-      "description": "Quis anim qui eu adipisicing occaecat eu est aliqua magna. Velit non amet excepteur duis pariatur minim officia do ullamco aliquip. Sunt ea sint pariatur sit. Id adipisicing non sit id anim voluptate reprehenderit do id minim deserunt. Adipisicing ea nulla adipisicing ea qui veniam anim nostrud deserunt mollit pariatur elit.",
-      "distanceInMeters": 849
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf5532aa3bdfdc0064a",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image3.jpg",
-      "price": "182€",
-      "name": "ut",
-      "description": "Occaecat nulla qui cillum qui sit culpa do voluptate irure aliquip eiusmod minim. Voluptate incididunt id voluptate tempor eiusmod laboris. Excepteur magna eiusmod ea occaecat amet consectetur ex pariatur voluptate sint. Reprehenderit deserunt in duis occaecat anim et dolor ex. Duis ullamco deserunt est aliquip nostrud deserunt quis ut elit consequat laboris.",
-      "distanceInMeters": 933
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf531c127cde990723d",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
-      "price": "980€",
-      "name": "ut",
-      "description": "Cupidatat mollit laborum irure sit elit. Ad proident nulla adipisicing commodo irure eiusmod. Esse aute nulla cupidatat mollit cillum adipisicing pariatur consequat.",
-      "distanceInMeters": 182
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf5d6a1104a05ae1cb1",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
-      "price": "850€",
-      "name": "ea",
-      "description": "Ea esse consectetur qui ea dolore exercitation id nisi aliquip. Elit cupidatat commodo officia ad aute id nostrud aliqua Lorem velit. Magna id laboris voluptate cillum nisi mollit.",
-      "distanceInMeters": 741
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf5e9c3efc1371784cb",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
-      "price": "218€",
-      "name": "anim",
-      "description": "Eiusmod do quis pariatur ea enim ipsum quis eu. Qui eu non cupidatat culpa elit consectetur nisi et aliqua. Ut mollit velit nisi occaecat cupidatat fugiat elit incididunt. Aute cupidatat ad dolor occaecat ad quis velit. Officia incididunt ad officia est. Nostrud mollit veniam sint qui fugiat adipisicing ad. Ad cillum labore deserunt ea velit.",
-      "distanceInMeters": 854
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf5f711c549f17293e9",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image10.jpg",
-      "price": "538€",
-      "name": "exercitation",
-      "description": "Deserunt nisi id aliquip cupidatat voluptate exercitation nulla ad mollit exercitation amet. Dolor laborum commodo quis dolor anim ad nostrud. Esse Lorem reprehenderit duis irure esse enim laboris consectetur dolor.",
-      "distanceInMeters": 880
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf518cc8a591fc311b2",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
-      "price": "888€",
-      "name": "aliqua",
-      "description": "Occaecat laborum quis minim pariatur dolore consectetur cupidatat aute eiusmod non. Et in reprehenderit sint officia consequat ex non tempor consectetur labore nulla veniam. Amet incididunt est pariatur tempor non nulla nostrud est qui dolore.",
-      "distanceInMeters": 847
-    }
-  },
-  {
-    "kind": "service",
-    "item": {
-      "id": "5a79bcf521c2be948c6fce55",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
-      "price": "446€",
-      "name": "veniam",
-      "description": "Velit non anim enim Lorem duis consectetur fugiat sunt. Ea ullamco tempor consectetur labore cupidatat et excepteur qui amet ullamco dolor nostrud ipsum dolore. Cupidatat dolor consectetur consequat tempor veniam. Duis eiusmod ullamco enim enim reprehenderit. Consequat ipsum officia ex ipsum. Ex aliqua eiusmod anim esse esse aliquip qui nisi duis. Labore mollit incididunt irure eu irure id qui cupidatat laborum excepteur nisi ea amet.",
-      "distanceInMeters": 709
+      "price": "49486€",
+      "mame": "adipisicing",
+      "motor": "gasoline",
+      "gearbox": "automatic",
+      "brand": "do",
+      "km": 3078,
+      "description": "Deserunt id quis amet excepteur aliquip do consequat laboris eiusmod adipisicing. Cillum culpa do est eiusmod magna. Fugiat duis esse occaecat ea sunt nulla mollit minim mollit magna in aliquip laboris consectetur. Anim id cillum reprehenderit veniam ullamco veniam mollit occaecat.",
+      "distanceInMeters": 744
     }
   },
   {
     "kind": "car",
     "item": {
-      "id": "5a79bcf5746e9a885eafe0ab",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image10.jpg",
-      "price": "324€",
-      "name": "culpa",
-      "description": "Adipisicing elit laboris elit cupidatat. Minim officia irure sunt fugiat in. Tempor consequat ex aliqua aute qui laboris ullamco id labore nisi quis. Consequat sint qui ex aute amet aliquip Lorem. Laborum qui occaecat non minim excepteur non excepteur consectetur. Exercitation velit do ipsum do ad magna aliqua ex voluptate dolore.",
-      "distanceInMeters": 884
+      "id": "5a7ab51058ddfbd7a9def5f8",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
+      "price": "453965€",
+      "mame": "non",
+      "motor": "gasoline",
+      "gearbox": "automatic",
+      "brand": "id",
+      "km": 8178,
+      "description": "Laborum aliquip pariatur duis cupidatat dolor duis culpa. Exercitation ipsum in labore ad est ullamco occaecat exercitation enim consectetur in occaecat. Nulla velit culpa reprehenderit cupidatat ullamco veniam dolor.",
+      "distanceInMeters": 595
     }
   },
   {
-    "kind": "service",
+    "kind": "car",
     "item": {
-      "id": "5a79bcf553d90d35ff2fedc2",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
-      "price": "531€",
-      "name": "labore",
-      "description": "Eu occaecat proident id cupidatat culpa Lorem minim ipsum. Qui incididunt consectetur nisi minim ex commodo eu veniam mollit fugiat id non nisi. Labore cillum exercitation consequat sint eu do consequat proident reprehenderit laborum veniam ullamco. Adipisicing laboris proident labore ipsum magna minim magna consequat veniam reprehenderit commodo. Ea et sunt et reprehenderit.",
-      "distanceInMeters": 228
-    }
-  },
-  {
-    "kind": "consumer_goods",
-    "item": {
-      "id": "5a79bcf5253a4024ad807dd5",
+      "id": "5a7ab510dc935f60b204911d",
       "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image3.jpg",
-      "price": "877€",
-      "name": "Lorem",
-      "description": "Officia esse amet sint adipisicing et est mollit consectetur deserunt. Enim aliquip laboris tempor eiusmod ad sunt. Esse sunt aliqua excepteur labore esse occaecat cillum eiusmod exercitation adipisicing quis incididunt nisi velit. Commodo sit sunt ea enim aliquip dolor enim esse Lorem ad irure nulla. Cupidatat eu incididunt aliquip deserunt qui. Cupidatat exercitation est pariatur anim cillum.",
-      "distanceInMeters": 916
+      "price": "34999€",
+      "mame": "ea",
+      "motor": "gasoline",
+      "gearbox": "automatic",
+      "brand": "cillum",
+      "km": 8863,
+      "description": "Nisi duis duis incididunt aliquip incididunt voluptate officia Lorem cupidatat. Sunt veniam labore sint cillum in velit fugiat fugiat ullamco nisi. Proident Lorem pariatur fugiat ut ut consequat non quis occaecat. Cupidatat esse sint consectetur in reprehenderit reprehenderit anim in qui labore mollit. Velit occaecat incididunt fugiat adipisicing commodo laboris cillum qui ullamco elit exercitation. Nisi officia tempor sunt non cillum labore sit anim voluptate aute.",
+      "distanceInMeters": 156
     }
   },
   {
-    "kind": "service",
+    "kind": "car",
     "item": {
-      "id": "5a79bcf528a28a228dee18c9",
-      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
-      "price": "910€",
-      "name": "tempor",
-      "description": "Consectetur officia nisi do id anim adipisicing. Nostrud proident sit officia minim. Eiusmod occaecat qui duis officia consequat.",
-      "distanceInMeters": 812
+      "id": "5a7ab5108d12300142fae4a7",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
+      "price": "354076€",
+      "mame": "duis",
+      "motor": "gasoline",
+      "gearbox": "manual",
+      "brand": "irure",
+      "km": 1341,
+      "description": "Ad eiusmod consectetur nisi enim ex laborum duis adipisicing consectetur pariatur culpa minim. Aliqua quis proident tempor exercitation commodo nisi excepteur quis laborum eu nulla. Irure proident eiusmod nulla ea ut mollit ullamco ea reprehenderit nisi quis id ad et.",
+      "distanceInMeters": 841
     }
   },
   {
     "kind": "consumer_goods",
     "item": {
-      "id": "5a79bcf5ff0a4d2ad152c47b",
+      "id": "5a7ab3e0b5cee4af3cb845bc",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
+      "price": "69€",
+      "mame": "commodo",
+      "color": "red",
+      "category": "games",
+      "description": "Eu ipsum velit dolor ea est tempor aliqua sit. Officia proident officia ex duis ipsum est magna id sit. Ex aute veniam nisi est eu deserunt. Consequat culpa nulla incididunt tempor enim proident exercitation consectetur.",
+      "distanceInMeters": 789
+    }
+  },
+   {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02dcbccd9bb8e9fb88",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
+      "price": "185€",
+      "mame": "ex",
+      "closeDay": "monday",
+      "category": "sport",
+      "minimunAge": 14,
+      "description": "Do irure labore pariatur labore do eiusmod ea sunt duis. Commodo enim incididunt cillum veniam enim magna aute reprehenderit adipisicing sit in consequat. Proident tempor id ut cillum exercitation consequat tempor eiusmod. Elit nisi mollit ipsum qui quis Lorem tempor reprehenderit Lorem adipisicing commodo ad. Mollit sunt culpa eiusmod cupidatat consectetur et nostrud reprehenderit enim duis dolor.",
+      "distanceInMeters": 736
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab510de4d9934b765d511",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
+      "price": "452551€",
+      "mame": "consectetur",
+      "motor": "electric",
+      "gearbox": "automatic",
+      "brand": "ut",
+      "km": 8223,
+      "description": "Eiusmod est adipisicing proident sit aliquip magna culpa cillum deserunt aute eu irure non. Est labore qui aliqua excepteur id sint quis. Eiusmod officia nisi et adipisicing voluptate ad aute consequat ut ullamco minim veniam ut. Proident aute esse consectetur sit tempor Lorem tempor culpa ut dolore laborum. Velit ut velit nulla quis labore eiusmod culpa ipsum ea enim tempor aute officia.",
+      "distanceInMeters": 850
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab51008ccd73adca49b2a",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
+      "price": "207256€",
+      "mame": "consectetur",
+      "motor": "diesel",
+      "gearbox": "automatic",
+      "brand": "occaecat",
+      "km": 4028,
+      "description": "Aliqua cupidatat incididunt non ut aliquip aliqua. Aliqua fugiat reprehenderit non consequat. Fugiat officia est eiusmod qui anim Lorem et amet veniam id irure labore. Consectetur aute elit reprehenderit aliqua ipsum est ut in commodo sunt. Sit voluptate dolor ipsum non nostrud anim et laboris. Laboris officia reprehenderit commodo esse consequat id sint laboris cillum qui qui.",
+      "distanceInMeters": 259
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab510bfe245a7d09c0218",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image10.jpg",
+      "price": "455839€",
+      "mame": "voluptate",
+      "motor": "electric",
+      "gearbox": "automatic",
+      "brand": "est",
+      "km": 4515,
+      "description": "Veniam laborum dolore cupidatat velit dolor adipisicing culpa sit veniam commodo dolor excepteur. Proident pariatur adipisicing amet quis commodo adipisicing proident elit exercitation fugiat esse voluptate nostrud culpa. Deserunt amet nulla mollit minim occaecat laborum aliquip consectetur ad esse enim ullamco voluptate consectetur. Ad anim irure officia duis tempor veniam aute ipsum excepteur mollit. Excepteur nisi incididunt cupidatat excepteur consectetur veniam officia occaecat. Qui excepteur anim magna sit esse magna dolor adipisicing ad qui ad commodo deserunt.",
+      "distanceInMeters": 360
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab510112af3192a0dc28b",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image9.jpg",
+      "price": "48877€",
+      "mame": "ullamco",
+      "motor": "gasoline",
+      "gearbox": "automatic",
+      "brand": "do",
+      "km": 8420,
+      "description": "Aute nisi eu magna elit enim aliquip exercitation excepteur eu tempor incididunt sit. Consectetur anim sunt dolore eu cillum consectetur magna nulla anim dolore esse ut. Veniam tempor adipisicing id excepteur duis culpa adipisicing.",
+      "distanceInMeters": 324
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab510eb719136d58e00b2",
       "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
-      "price": "504€",
-      "name": "nostrud",
-      "description": "Culpa eiusmod exercitation sint ullamco voluptate veniam do Lorem labore. Irure culpa enim elit pariatur aute et ipsum do occaecat occaecat et reprehenderit nostrud quis. Aliqua commodo quis nulla Lorem eu laborum enim. Id sunt sunt voluptate ut cupidatat eiusmod voluptate fugiat Lorem veniam culpa.",
-      "distanceInMeters": 449
+      "price": "37147€",
+      "mame": "quis",
+      "motor": "electric",
+      "gearbox": "automatic",
+      "brand": "do",
+      "km": 9352,
+      "description": "Qui sunt fugiat occaecat mollit ea occaecat amet elit duis voluptate cillum laboris tempor ipsum. Anim duis id consequat eu occaecat dolore laboris. Qui exercitation eiusmod nostrud deserunt laboris laboris adipisicing esse ullamco cillum cillum.",
+      "distanceInMeters": 486
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab5107c32a4b9cf2ece8a",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
+      "price": "297004€",
+      "mame": "exercitation",
+      "motor": "diesel",
+      "gearbox": "automatic",
+      "brand": "ea",
+      "km": 7161,
+      "description": "Excepteur eu voluptate velit ut. Dolor officia fugiat consectetur adipisicing id aliqua sint cupidatat officia adipisicing quis dolore. Magna et mollit enim voluptate adipisicing voluptate amet. Amet nulla excepteur exercitation aliqua magna irure nulla.",
+      "distanceInMeters": 956
+    }
+  },
+   {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02dcbccd9bb8e9fb88",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
+      "price": "185€",
+      "mame": "ex",
+      "closeDay": "monday",
+      "category": "sport",
+      "minimunAge": 14,
+      "description": "Do irure labore pariatur labore do eiusmod ea sunt duis. Commodo enim incididunt cillum veniam enim magna aute reprehenderit adipisicing sit in consequat. Proident tempor id ut cillum exercitation consequat tempor eiusmod. Elit nisi mollit ipsum qui quis Lorem tempor reprehenderit Lorem adipisicing commodo ad. Mollit sunt culpa eiusmod cupidatat consectetur et nostrud reprehenderit enim duis dolor.",
+      "distanceInMeters": 736
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab51023e2dca631cec4c3",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
+      "price": "186870€",
+      "mame": "nulla",
+      "motor": "diesel",
+      "gearbox": "manual",
+      "brand": "eiusmod",
+      "km": 1628,
+      "description": "Nulla voluptate culpa veniam dolor sit ullamco commodo ad sint ex culpa laboris pariatur exercitation. Ipsum laborum consectetur aute occaecat excepteur anim. Exercitation qui est in velit culpa. Id in fugiat reprehenderit aliquip culpa qui. Esse sint eiusmod eiusmod culpa commodo quis exercitation.",
+      "distanceInMeters": 698
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab510c12c3efce12b96af",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
+      "price": "271252€",
+      "mame": "occaecat",
+      "motor": "electric",
+      "gearbox": "automatic",
+      "brand": "ipsum",
+      "km": 2797,
+      "description": "Do minim deserunt veniam ex fugiat. Culpa et exercitation laboris esse aliquip nisi duis sint incididunt irure amet. Mollit occaecat aute do ullamco anim nostrud exercitation aliqua sint eu ut. Duis velit irure officia nostrud esse eu excepteur sint commodo veniam occaecat do. Incididunt aliquip mollit ex cillum proident amet.",
+      "distanceInMeters": 914
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab510cab51e493d363aee",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
+      "price": "406147€",
+      "mame": "enim",
+      "motor": "electric",
+      "gearbox": "manual",
+      "brand": "pariatur",
+      "km": 1879,
+      "description": "Aliqua in ad minim tempor proident quis ex laborum labore non exercitation. Exercitation anim tempor consectetur duis. Dolor excepteur dolor excepteur tempor culpa dolore magna reprehenderit occaecat ullamco. Ullamco est irure qui ex sit. Fugiat occaecat nisi aliqua mollit dolore aliquip aliqua pariatur id ad pariatur aliquip sunt. Nostrud ipsum elit ea sint voluptate. Exercitation quis sint voluptate reprehenderit amet id exercitation ad magna in cillum sunt.",
+      "distanceInMeters": 783
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab5105cf5f5fbd8e9554a",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
+      "price": "451349€",
+      "mame": "quis",
+      "motor": "diesel",
+      "gearbox": "automatic",
+      "brand": "aliqua",
+      "km": 7596,
+      "description": "Ex duis irure velit Lorem in. Anim id sunt ut ex cillum dolore Lorem minim aliquip est. Reprehenderit et anim do ullamco quis aliqua dolore id cupidatat. Occaecat minim cillum culpa culpa veniam elit culpa eiusmod qui Lorem. Nisi excepteur dolor adipisicing esse exercitation voluptate exercitation. Tempor aliqua commodo excepteur dolor qui.",
+      "distanceInMeters": 250
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab5103e2b214df34ae2f6",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
+      "price": "320932€",
+      "mame": "nulla",
+      "motor": "diesel",
+      "gearbox": "manual",
+      "brand": "non",
+      "km": 5264,
+      "description": "Dolor anim id elit et magna cillum officia reprehenderit. Tempor nulla est labore nostrud eiusmod amet mollit laboris. Enim eiusmod nulla ex enim excepteur adipisicing proident irure sit dolor tempor. Adipisicing elit id magna quis adipisicing commodo aliquip culpa deserunt.",
+      "distanceInMeters": 545
+    }
+  },  
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02dd678a1cfa79a248",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
+      "price": "320€",
+      "mame": "pariatur",
+      "closeDay": "monday",
+      "category": "food",
+      "minimunAge": 24,
+      "description": "Lorem veniam ex eiusmod esse tempor mollit laboris adipisicing dolore incididunt culpa esse. Eu eu duis aliquip pariatur irure laborum labore non minim. Esse qui sint irure velit minim irure tempor. Sint dolor amet do officia. Proident in id irure esse qui. Commodo quis commodo laboris deserunt dolor non. Ex sint aliqua officia ad sint sunt laborum officia mollit laboris sunt nisi et.",
+      "distanceInMeters": 246
+    }
+  },
+  {
+    "kind": "consumer_goods",
+    "item": {
+      "id": "5a7ab3e0b5cee4af3cb845bc",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
+      "price": "69€",
+      "mame": "commodo",
+      "color": "red",
+      "category": "games",
+      "description": "Eu ipsum velit dolor ea est tempor aliqua sit. Officia proident officia ex duis ipsum est magna id sit. Ex aute veniam nisi est eu deserunt. Consequat culpa nulla incididunt tempor enim proident exercitation consectetur.",
+      "distanceInMeters": 789
     }
   },
   {
     "kind": "service",
     "item": {
-      "id": "5a79bcf506e4fcc0a69f7dc0",
+      "id": "5a7abb02d9cf9c2c2c3cd5e2",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
+      "price": "47€",
+      "mame": "eu",
+      "closeDay": "saturday",
+      "category": "sport",
+      "minimunAge": 24,
+      "description": "Incididunt ullamco dolore consectetur Lorem nostrud labore ea id consequat. Officia id officia incididunt incididunt. Ex irure exercitation dolor deserunt officia ad culpa officia. Lorem esse voluptate aliqua duis quis nostrud dolor occaecat sunt incididunt qui irure aute laboris. Deserunt sint cupidatat magna id qui id adipisicing ad aute. Deserunt officia mollit est occaecat magna.",
+      "distanceInMeters": 558
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02ee7d8b49bf1b004a",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image2.jpg",
+      "price": "198€",
+      "mame": "veniam",
+      "closeDay": "monday",
+      "category": "aventure",
+      "minimunAge": 25,
+      "description": "Sunt laborum excepteur ad est veniam incididunt irure esse ex culpa. Aute veniam ad sunt excepteur. Magna elit culpa excepteur veniam irure velit esse labore exercitation culpa. Consequat nulla quis pariatur duis et Lorem quis irure ullamco ea enim eu dolor. Incididunt aute labore excepteur anim ut commodo deserunt consectetur pariatur ad. Excepteur mollit consectetur consequat nulla magna commodo proident et labore proident velit voluptate officia mollit. Excepteur pariatur quis qui sunt Lorem sit laboris sit cupidatat ullamco.",
+      "distanceInMeters": 118
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02a8b5de15cd660bd6",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image7.jpg",
+      "price": "40€",
+      "mame": "ipsum",
+      "closeDay": "monday",
+      "category": "aventure",
+      "minimunAge": 18,
+      "description": "Ea consectetur adipisicing aliquip anim. Ipsum nisi laboris non minim fugiat. Est consequat cupidatat do aliquip.",
+      "distanceInMeters": 919
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb020d163224b968d60c",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
+      "price": "88€",
+      "mame": "sint",
+      "closeDay": "sunday",
+      "category": "food",
+      "minimunAge": 15,
+      "description": "Officia deserunt laboris consectetur ut eu ex culpa tempor labore. Sunt cillum aute ut pariatur. Proident incididunt tempor labore deserunt nostrud. Qui laborum adipisicing sint ut duis excepteur ex.",
+      "distanceInMeters": 510
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02f6220b5cd39c24f4",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
+      "price": "229€",
+      "mame": "ea",
+      "closeDay": "monday",
+      "category": "food",
+      "minimunAge": 30,
+      "description": "Quis aliqua in consequat reprehenderit ea esse laboris est Lorem exercitation voluptate velit commodo. Nulla elit in officia eiusmod cupidatat labore et adipisicing nisi aliqua veniam velit. Deserunt id irure sunt nulla adipisicing enim irure et et qui quis.",
+      "distanceInMeters": 460
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02a48458b81a214584",
       "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image6.jpg",
-      "price": "914€",
-      "name": "exercitation",
-      "description": "Sit aute reprehenderit ex labore sunt aliquip cupidatat anim. Ad quis ex velit irure qui nisi minim ut ipsum ex aliqua. Anim cupidatat esse deserunt labore cillum mollit voluptate sint aute. Lorem laboris amet Lorem quis officia aliqua fugiat velit non commodo culpa. Enim nulla dolor do anim do magna adipisicing. Et laborum commodo Lorem sint quis nulla minim nulla laboris.",
-      "distanceInMeters": 361
+      "price": "212€",
+      "mame": "eiusmod",
+      "closeDay": "saturday",
+      "category": "aventure",
+      "minimunAge": 9,
+      "description": "Eu laboris irure est in minim deserunt cillum. Enim sint in voluptate labore nostrud veniam est ea eu veniam eiusmod sit cillum sint. Culpa duis aliquip nisi aliquip ex mollit do magna. Excepteur in eu in dolor sunt nostrud laboris qui. Commodo non nisi amet ex mollit sint proident tempor eiusmod. Ut minim est commodo cupidatat enim tempor aute.",
+      "distanceInMeters": 349
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02e852b94ec5447244",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
+      "price": "412€",
+      "mame": "nostrud",
+      "closeDay": "monday",
+      "category": "learning",
+      "minimunAge": 20,
+      "description": "Culpa anim veniam cillum officia. Ea sint cupidatat minim eiusmod eu dolore dolor exercitation anim aliquip. Quis esse amet aute tempor pariatur anim in irure elit pariatur. Quis elit veniam est nostrud sunt in sit.",
+      "distanceInMeters": 251
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb027161b31f08161093",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image10.jpg",
+      "price": "35€",
+      "mame": "sint",
+      "closeDay": "sunday",
+      "category": "sport",
+      "minimunAge": 10,
+      "description": "Anim Lorem fugiat nulla est sit ea adipisicing cillum fugiat. Magna fugiat tempor reprehenderit aliquip ullamco. Quis magna in anim quis excepteur qui eu cupidatat elit occaecat elit magna ipsum cillum. Excepteur reprehenderit sint sit occaecat minim id. Duis minim laboris aliqua excepteur ea minim cillum sit. Ex nisi est in anim est tempor.",
+      "distanceInMeters": 198
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02425794c72f650d7f",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
+      "price": "108€",
+      "mame": "fugiat",
+      "closeDay": "saturday",
+      "category": "aventure",
+      "minimunAge": 27,
+      "description": "Nisi ipsum est anim aute ullamco nulla aute nostrud minim fugiat Lorem consectetur tempor. Magna id et in eiusmod ullamco occaecat exercitation aliquip consequat aliquip ullamco est. Elit reprehenderit non nisi id veniam labore magna veniam sunt amet. Deserunt veniam officia ea mollit tempor ex ipsum tempor nulla pariatur laborum. Ut ut exercitation incididunt deserunt. Pariatur ullamco nulla enim do cillum sunt ea duis exercitation do dolore velit.",
+      "distanceInMeters": 958
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb0282011f149c2a326c",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
+      "price": "142€",
+      "mame": "reprehenderit",
+      "closeDay": "saturday",
+      "category": "aventure",
+      "minimunAge": 25,
+      "description": "Eu aute dolore incididunt labore irure consectetur velit commodo veniam cillum adipisicing quis. Deserunt magna aliqua incididunt ullamco fugiat anim id minim anim consectetur qui. Do eiusmod non dolore excepteur excepteur culpa. Commodo aute laboris cupidatat sint sit et aute ut Lorem aliquip exercitation labore. Id elit quis qui laborum sunt aliqua non. Aute fugiat in fugiat veniam culpa.",
+      "distanceInMeters": 607
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb025449f89fda19f770",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image9.jpg",
+      "price": "118€",
+      "mame": "ex",
+      "closeDay": "sunday",
+      "category": "food",
+      "minimunAge": 29,
+      "description": "Voluptate excepteur sit mollit nisi laboris dolor sunt. Velit exercitation voluptate dolore magna mollit magna officia eiusmod consectetur pariatur officia ad. Occaecat officia deserunt minim ad aliquip deserunt irure anim eu exercitation dolor adipisicing. Sit ex commodo nostrud excepteur sunt deserunt. Amet enim velit eiusmod irure consequat dolor id enim amet amet ex. Dolore laborum eiusmod voluptate ullamco laboris dolore cupidatat sunt nulla irure ipsum dolor. Eiusmod est non qui commodo magna commodo labore ex quis nulla id reprehenderit ullamco.",
+      "distanceInMeters": 921
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab51023e2dca631cec4c3",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
+      "price": "186870€",
+      "mame": "nulla",
+      "motor": "diesel",
+      "gearbox": "manual",
+      "brand": "eiusmod",
+      "km": 1628,
+      "description": "Nulla voluptate culpa veniam dolor sit ullamco commodo ad sint ex culpa laboris pariatur exercitation. Ipsum laborum consectetur aute occaecat excepteur anim. Exercitation qui est in velit culpa. Id in fugiat reprehenderit aliquip culpa qui. Esse sint eiusmod eiusmod culpa commodo quis exercitation.",
+      "distanceInMeters": 698
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02ca0ec357731552ec",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image10.jpg",
+      "price": "95€",
+      "mame": "aliqua",
+      "closeDay": "sunday",
+      "category": "learning",
+      "minimunAge": 27,
+      "description": "Culpa amet in reprehenderit labore deserunt aliqua quis eiusmod irure proident ipsum velit. Ad et voluptate occaecat minim anim anim quis eiusmod voluptate aute sit cillum amet. Eiusmod sit et reprehenderit nisi tempor ut elit velit labore Lorem in tempor ut. Culpa veniam irure sunt quis sit fugiat nulla deserunt quis est mollit aliqua. Nulla nostrud ullamco occaecat esse enim cillum proident. Ea qui esse cupidatat cillum. Magna id dolore nisi fugiat Lorem consequat proident cillum consequat voluptate culpa et nostrud sit.",
+      "distanceInMeters": 771
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02127246ea160214c4",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
+      "price": "176€",
+      "mame": "mollit",
+      "closeDay": "sunday",
+      "category": "sport",
+      "minimunAge": 12,
+      "description": "Esse ad duis duis culpa ut aliqua incididunt ea non amet esse duis. Adipisicing enim ad ullamco est excepteur ex. Voluptate pariatur duis exercitation do deserunt laborum tempor sunt reprehenderit veniam reprehenderit exercitation. Sit cillum laborum culpa duis mollit aute. Elit proident laboris proident Lorem occaecat tempor cillum nisi eiusmod ut quis qui.",
+      "distanceInMeters": 779
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb0267700890fa9a9533",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
+      "price": "281€",
+      "mame": "deserunt",
+      "closeDay": "saturday",
+      "category": "learning",
+      "minimunAge": 14,
+      "description": "Enim eiusmod enim laborum excepteur eiusmod irure consectetur veniam minim excepteur culpa. Fugiat laboris exercitation est ipsum adipisicing cillum. Laboris cillum et irure reprehenderit eiusmod ea tempor velit aliqua ipsum sint aliquip. Adipisicing sint quis amet laborum proident reprehenderit voluptate aute incididunt anim nulla.",
+      "distanceInMeters": 133
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02d68402700253db2b",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image5.jpg",
+      "price": "496€",
+      "mame": "pariatur",
+      "closeDay": "saturday",
+      "category": "sport",
+      "minimunAge": 11,
+      "description": "Officia adipisicing eu ad do tempor enim sunt aliquip ut duis. Excepteur nostrud veniam eiusmod ex. Minim nisi laboris sunt deserunt aute ipsum fugiat sunt sit laboris veniam. Dolor duis esse in mollit Lorem duis occaecat quis ea sint id. Occaecat ea et cupidatat ea officia amet.",
+      "distanceInMeters": 384
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb0224477ed78bad58ef",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
+      "price": "399€",
+      "mame": "deserunt",
+      "closeDay": "monday",
+      "category": "aventure",
+      "minimunAge": 21,
+      "description": "Et commodo laboris amet in nisi duis consequat enim. Laborum quis sint excepteur labore excepteur est non sit ut ullamco nisi minim. Tempor esse sunt consectetur laborum. Esse non ea nulla ea qui.",
+      "distanceInMeters": 946
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02fd5e822fc16cda11",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image1.jpg",
+      "price": "49€",
+      "mame": "deserunt",
+      "closeDay": "monday",
+      "category": "food",
+      "minimunAge": 14,
+      "description": "Consequat esse proident ipsum minim nulla consectetur nisi excepteur culpa. Nulla aute eu id cillum deserunt dolore labore sint laborum. Ex proident dolor adipisicing nisi dolore nulla culpa irure deserunt eiusmod id anim duis excepteur.",
+      "distanceInMeters": 682
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb023b1f3e145f6a15ec",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image4.jpg",
+      "price": "455€",
+      "mame": "dolor",
+      "closeDay": "saturday",
+      "category": "aventure",
+      "minimunAge": 27,
+      "description": "Quis cillum consectetur nostrud quis consequat Lorem culpa consectetur consequat labore non. Adipisicing aliquip labore dolore minim nulla nostrud aute tempor cupidatat. Consectetur reprehenderit ipsum esse ea fugiat veniam aliqua. Ipsum eiusmod reprehenderit cillum exercitation magna et consequat exercitation voluptate. Sit dolore eu cupidatat culpa elit id excepteur do enim duis aute eiusmod ullamco. Adipisicing laboris irure occaecat cillum esse sit tempor. Dolor ullamco fugiat proident culpa consequat magna aliquip consectetur.",
+      "distanceInMeters": 689
+    }
+  },
+  {
+    "kind": "car",
+    "item": {
+      "id": "5a7ab51023e2dca631cec4c3",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
+      "price": "186870€",
+      "mame": "nulla",
+      "motor": "diesel",
+      "gearbox": "manual",
+      "brand": "eiusmod",
+      "km": 1628,
+      "description": "Nulla voluptate culpa veniam dolor sit ullamco commodo ad sint ex culpa laboris pariatur exercitation. Ipsum laborum consectetur aute occaecat excepteur anim. Exercitation qui est in velit culpa. Id in fugiat reprehenderit aliquip culpa qui. Esse sint eiusmod eiusmod culpa commodo quis exercitation.",
+      "distanceInMeters": 698
+    }
+  },
+  {
+    "kind": "service",
+    "item": {
+      "id": "5a7abb02dcbccd9bb8e9fb88",
+      "image": "https://raw.githubusercontent.com/Wallapop/Wallapop-Android-Test-Resources/master/images/image8.jpg",
+      "price": "185€",
+      "mame": "ex",
+      "closeDay": "monday",
+      "category": "sport",
+      "minimunAge": 14,
+      "description": "Do irure labore pariatur labore do eiusmod ea sunt duis. Commodo enim incididunt cillum veniam enim magna aute reprehenderit adipisicing sit in consequat. Proident tempor id ut cillum exercitation consequat tempor eiusmod. Elit nisi mollit ipsum qui quis Lorem tempor reprehenderit Lorem adipisicing commodo ad. Mollit sunt culpa eiusmod cupidatat consectetur et nostrud reprehenderit enim duis dolor.",
+      "distanceInMeters": 736
     }
   }
 ]
